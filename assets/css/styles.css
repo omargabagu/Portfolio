@@ -1,0 +1,174 @@
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+nav li {
+  display: inline-block;
+  margin-right: 20px;
+  color: #ffffff;
+  font-size: 25px;
+}
+
+.text-container {
+  margin-right: 10px;
+}
+
+#about {
+  margin-right: 40px;
+}
+
+.about-container {
+  display: flex;
+  flex-direction: column;
+  align-items: end;
+  margin-top: 40px;
+  margin-bottom: 50px;
+}
+
+.heading-conatiner {
+  display: flex;
+}
+
+p {
+  text-align: end;
+  color: #ffffff;
+}
+
+.box {
+  margin-right: 0;
+  width: 12px;
+  background-color: #6dedc7;
+}
+
+main {
+  max-width: 1000px;
+}
+
+main {
+}
+
+.main-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.form-container {
+  display: flex;
+}
+
+.btn {
+}
+
+#submit-container {
+}
+
+.submit-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 32px;
+}
+
+.form-item {
+  margin-inline: 10px;
+}
+
+.btn {
+  background-color: #FBF3CE;
+  border-color: #FBF3CE;
+  color: var(--bs-black);
+}
+
+.portfolio-container {
+  margin-bottom: 60px;
+}
+
+.proyects-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  width: 100%;
+}
+
+.image-container {
+  height: 33.33333vw;
+}
+
+.description {
+  text-align: start;
+  margin: 0;
+  color: #ffffff;
+}
+
+.proyect {
+  width: 100%;
+  padding: 2px;
+}
+
+.title {
+  text-align: left;
+}
+
+#box2 {
+  width: 12px;
+  background-color: var(--bs-gray-800);
+  border: 0;
+  padding: 0;
+}
+
+.title-container {
+  display: inline-flex;
+}
+
+.minides {
+  font-size: 15px;
+  text-align: start;
+  color: white;
+}
+
+.text-container {
+  width: 100%;
+}
+
+.title-container {
+  border: 0;
+}
+
+.image-conteiner {
+  width: 100%;
+  overflow: hidden;
+}
+
+.proyect-image {
+  width: 100%;
+}
+
+.box2 {
+  width: 12px;
+  background-color: var(--bs-gray);
+}
+
+.title {
+  color: #6DEDC7;
+  font-size: 20px;
+}
+
+h1 {
+  color: #ffffff;
+}
+
+body {
+  background-color: black;
+}
+
+.form-label {
+  color: white;
+}
+
+header {
+  background-color: #000000;
+  position: fixed;
+  width: 100%;
+}
+
